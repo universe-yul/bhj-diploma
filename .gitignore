@@ -1,0 +1,7 @@
+*.zip
+.env
+bhj-diploma.7z
+db.json
+node_modules/
+package.json
+package-lock.json
